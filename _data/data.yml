@@ -167,14 +167,14 @@ skills:
       - name: PHP
         level: 67% # 8/12
 
-      - name: MySQL
-        level: 58% # 7/12
-
       - name: JavaScript
         level: 17% # 2/12
 
       - name: Go
         level: 8% # 1/12
+
+      - name: MySQL
+        level: 58% # 7/12
 
       - name: PostgreSQL
         level: 100% # 2/2
@@ -185,20 +185,20 @@ skills:
       - name: Google Cloud Datastore
         level: 50% # 2/4
 
-      - name: Flask Python Framework
-        level: 33% # 1/3
-
       - name: FastAPI Python Framework
         level: 67% # 2/3
 
       - name: Laravel PHP Framework
         level: 43% # 3/7
 
+      - name: Symfony PHP Framework
+        level: 36% # 4/11
+
+      - name: Flask Python Framework
+        level: 33% # 1/3
+
       - name: Nginx HTTP Server and Reverse Proxy
         level: 43% # 3/7
-
-      - name: Apache HTTP Server
-        level: 33% # 4/12
 
       - name: Gunicorn WSGI HTTP Server
         level: 50% # 1/2
@@ -206,17 +206,8 @@ skills:
       - name: Uvicorn ASGI Web Server
         level: 50% # 1/2
 
-      - name: Docker
-        level: 100% # 7/7
-
-      - name: Kubernetes
-        level: 50% # 1/2
-
-      - name: Ansible
-        level: 21% # 1.5/7
-
-      - name: Terraform
-        level: 25% # 0.5/2
+      - name: Apache HTTP Server
+        level: 33% # 4/12
 
       - name: GitHub Actions
         level: 100% # .5/.5
@@ -226,6 +217,19 @@ skills:
       
       - name: Travis CI
         level: 50% # 2/4
+
+      - name: Docker
+        level: 100% # 7/7
+
+      - name: Kubernetes
+        level: 50% # 1/2
+
+      - name: Terraform
+        level: 25% # 0.5/2
+
+      - name: Ansible
+        level: 21% # 1.5/7
+
 
 # Operating systems: 
 # - Windows 95/98/XP/2000: 2002 - 2005, Win 3
