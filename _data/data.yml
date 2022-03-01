@@ -46,6 +46,12 @@ sidebar:
       - item: Cooking
         link:
 
+      - item: Home Servers
+        link:
+
+      - item: Smart Homes
+        link:
+
 career-profile:
     title: Career Profile
     summary: |
