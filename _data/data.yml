@@ -7,43 +7,41 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Pravin Dahal
+    tagline: Lead Software Developer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: pravindahal@gmail.com
+    # phone: 012 345 6789
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    # website: blog.webjeda.com #do not add http://
+    linkedin: pravindahal
+    # xing: alandoe
+    github: pravindahal
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
+    # twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    # codewars:
+    goodreads: 12237558-pravin # Number-Username, e.g. 123456-alandoe
+    # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Nepali
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Norwegian
+        level: Elementary
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Norwegian
+        level: Basic
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
 
       - item: Cooking
         link:
@@ -51,143 +49,215 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A Senior Software Developer with experience in IoT, FinTech and Energy Markets.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor of engineering in computer and technology
+      university: Kantipur Engineering College (Tribhuvan University)
+      time: 2006 - 2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Attended, incomplete.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Lead Software Developer
+      time: June 2020 - Present
+      company: Optimeering AS, Oslo
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Leading a small development team in an AI/ML startup focusing on the energy markets.
+    - role: Senior Software Developer
+      time: May 2018 - May 2020
+      company: Auka AS, Oslo
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Built tools and services for compliance to onboard and screen users and enforce limits 
+        based on financial regulations for a mobile payment app. Also built the invite and referral 
+        system.
+    - role: Software developer (remote)
+      time: July 2011 - August 2015
+      company: Choobs Ltd., Geneva
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Drove design, development and implementation of key features in alignment with client 
+        requests, working with senior leadership on the electronic flight bag application project. 
+        Additionally, assisted development as technical supervisor in several projects.
+    - role: Software developer (remote, part-time)
+      time: June 2015 - July 2015 
+      company: International Federation Of Red Cross, Geneva, Switzerland
+      details: |
+        Sole developer and maintainer of an online MOOC platform based on Google coursebuilder. 
+        Implemented new features in accordance with project vision based on community feedback, 
+        working closely with the project management, content designers and behavioral researchers.
+    - role: Embedded systems developer and engineering consultant
+      time: June 2015 - July 2015 
+      company: ProjectroniX Pvt. Ltd, Lalitpur, Nepal
+      details: |
+        Programmed 8081 microcontroller and Arduino based systems. Developed web interfaces to 
+        display data from hardware sensors. Developed company website and simple web based accounting system.
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # intro: >
+    #   You can list your side projects or open source libraries in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Digital onboarding system for a payment app
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A system to allow users to submit their identity documents and selfie video via a mobile app and for the Compliance department to digitally onboard users and screen them before onboarding to use a payment application."
 
-      - title: Tempo
+      - title: Smart hub support tool
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "An online tool to allow developers to SSH into Futurehome smart hubs for troubleshooting and a graphical dashboard to show online/offline timeline of Futurehome smart hubs."
 
-      - title: Atom
+      - title: Web based smart home configuration builder
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Web based smart home configuration builder using Angular as frontend and Node.js as backend."
 
-      - title: Delta
+      - title: Server metric collection using Datadog
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Server metric collection for all Futurehome backend servers using custom software in Go to collect custom application-specific metrics."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
+      - title: High availability log aggregation
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        tagline: "High availability fluentd server setup to collect logs from web applications running in docker containers."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Webshop with Salesforce and smart home system integration
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        tagline: "Webshop built with Backbone JS for frontend and Laravel 5 for backend, integrated to Salesforce-based Custom ERP Solution and Proprietary Futurehome Smart Home System."
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Modularization and containerization of largely monolithic smart home backend system
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Over two years of monolithic backend code developed and managed by a small team was in need of refactoring and scalable deployment. Played a vital role in modularization of the system working with developers and the engineering manager."
+
+      - title: Maintenance of Online MOOC Platform
+        link: "#"
+        tagline: "Online MOOC Platform, run by Healthy Lifestyle Community - IFRC, focusing on informing and educating the masses about non-communicable diseases, was in need of maintenance, feature additions and upgrades."
+
+      - title: Electronic Flight Bag
+        link: "#"
+        tagline: "Flight manual distribution system with P2P downloading and centralized web based management interface used by Pilots and Flight Maintenance Engineers."
+
+
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python
+        level: 80% # 8/10
 
-      - name: Angular
-        level: 98%
+      - name: PHP
+        level: 67% # 8/12
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: MySQL
+        level: 58% # 7/12
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: JavaScript
+        level: 17% # 2/12
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Go
+        level: 8% # 1/12
+
+      - name: PostgreSQL
+        level: 100% # 2/2
+
+      - name: TimescaleDB Timeseries Database
+        level: 100% # 2/2
+
+      - name: Google Cloud Datastore
+        level: 50% # 2/4
+
+      - name: Flask Python Framework
+        level: 33% # 1/3
+
+      - name: FastAPI Python Framework
+        level: 67% # 2/3
+
+      - name: Laravel PHP Framework
+        level: 43% # 3/7
+
+      - name: Nginx HTTP Server and Reverse Proxy
+        level: 43% # 3/7
+
+      - name: Apache HTTP Server
+        level: 33% # 4/12
+
+      - name: Gunicorn WSGI HTTP Server
+        level: 50% # 1/2
+
+      - name: Uvicorn ASGI Web Server
+        level: 50% # 1/2
+
+      - name: Docker
+        level: 100% # 7/7
+
+      - name: Kubernetes
+        level: 50% # 1/2
+
+      - name: Ansible
+        level: 21% # 1.5/7
+
+      - name: Terraform
+        level: 25% # 0.5/2
+
+      - name: GitHub Actions
+        level: 100% # .5/.5
+
+      - name: Gitlab CI
+        level: 75% # 2/12
+      
+      - name: Travis CI
+        level: 50% # 2/4
+
+# Operating systems: 
+# - Windows 95/98/XP/2000: 2002 - 2005, Win 3
+# - Ubuntu/Kubuntu/Linux Mint/Debian/PcLinuxOS/Fedora: 2005 - 2011, Lin 6
+# - Windows 7: 2011 - 2013, Win 2
+# - Windows 8: 2013 - 2015, Win 2
+# - macOS: 2015 - 2018, mac 3
+# - Ubuntu: 2018 - 2020, Lin 2
+# - Windows 10 with WSL: 2020 - 2022, Total 2, Win 1 + Lin 1
+
+      - name: Linux
+        level: 78% # 14/18
+
+      - name: Windows
+        level: 45% # 9/20
+
+      - name: macOS
+        level: 43% # 3/7
+
+# Cloud services:
+# 2014 - 2018 - AWS, 4 years
+# 2018 - 2020 - GCS, 2 years
+# 2020 - 2022 - Azure, 2 years
+
+      - name: Amazon Web Services
+        level: 50% # 4/8
+
+      - name: Google Cloud Platform
+        level: 25% # 2/8
+
+      - name: Azure
+        level: 25% # 2/8
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
