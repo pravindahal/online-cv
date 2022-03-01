@@ -83,18 +83,31 @@ experiences:
         requests, working with senior leadership on the electronic flight bag application project. 
         Additionally, assisted development as technical supervisor in several projects.
     - role: Software developer (remote, part-time)
-      time: June 2015 - July 2015 
+      time: June 2015 - July 2015
       company: International Federation Of Red Cross, Geneva, Switzerland
       details: |
         Sole developer and maintainer of an online MOOC platform based on Google coursebuilder. 
         Implemented new features in accordance with project vision based on community feedback, 
         working closely with the project management, content designers and behavioral researchers.
+    - role: General Manager
+      time: October 2010 - July 2011
+      company: SaziloTech, Kathmandy, Nepal
+      details: |
+        Started a consultancy company and partenered with 1 developer and 2 investors, hired 3
+        developers. Completed several small web development projects. Opted to leave it to work in the 
+        industry instead.
     - role: Embedded systems developer and engineering consultant
-      time: June 2015 - July 2015 
+      time: June 2010 - January 2011
       company: ProjectroniX Pvt. Ltd, Lalitpur, Nepal
       details: |
         Programmed 8081 microcontroller and Arduino based systems. Developed web interfaces to 
         display data from hardware sensors. Developed company website and simple web based accounting system.
+    - role: Freelance Developer
+      time: May 2009 - July 2011
+      company: SaziloTech, Kathmandy, Nepal
+      details: |
+        Worked as a freelance developer in over 50 small projects ranging from small bugfixes in existing
+        applications to building fullstack web apps.
 
 projects:
     title: Projects
