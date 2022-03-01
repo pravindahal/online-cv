@@ -263,5 +263,11 @@ skills:
       - name: Azure
         level: 25% # 2/8
 
+      - name: Git
+        level: 100% # 7/7
+
+      - name: Subversion
+        level: 36% # 4/11
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
