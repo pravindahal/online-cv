@@ -177,10 +177,10 @@ skills:
         level: 58% # 7/12
 
       - name: PostgreSQL
-        level: 100% # 2/2
+        level: 50% # 1/2
 
       - name: TimescaleDB Timeseries Database
-        level: 100% # 2/2
+        level: 50% # 1/2
 
       - name: Google Cloud Datastore
         level: 50% # 2/4
