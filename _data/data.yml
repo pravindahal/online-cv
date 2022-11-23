@@ -274,7 +274,7 @@ skills:
 # Cloud services:
 # 2014 - 2018 - AWS, 4 years
 # 2018 - 2020 - GCS, 2 years
-# 2020 - 2022 - Azure, 2 years
+# 2020 - 2022 - Azure, 2.5 years
 
       - name: Amazon Web Services
         level: 50% # 4/8
@@ -283,7 +283,7 @@ skills:
         level: 25% # 2/8
 
       - name: Azure
-        level: 25% # 2/8
+        level: 31% # 2.5/8
 
       - name: Git
         level: 100% # 7/7
