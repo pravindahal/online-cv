@@ -64,7 +64,8 @@ experiences:
       time: June 2020 - Present
       company: Optimeering AS, Oslo, Norway
       details: |
-        Leading a small development team in an AI/ML startup focusing on the energy markets.
+        Leading the team building a platform for making machine learning models easy to 
+        develop and deploy, working closely with Data Scientists to create useful AI models for the energy markets.
     - role: Senior Software Developer
       time: May 2018 - May 2020
       company: Auka AS, Oslo, Norway
@@ -120,6 +121,10 @@ projects:
     #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
+      - title: Data pipeline
+        link: "#"
+        tagline: "A set of services and tools to fetch, clean and store data gathered from various sources and make it available via APIs and SDKs for use in machine learning and data visualization dashboards."
+
       - title: Digital onboarding system for a payment app
         link: "#"
         tagline: "A system to allow users to submit their identity documents and selfie video via a mobile app and for the Compliance department to digitally onboard users and screen them before onboarding to use a payment application."
